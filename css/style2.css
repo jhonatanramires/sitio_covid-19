@@ -1,0 +1,65 @@
+@font-face{
+    font-family: fuente0;
+    src: url(../fuentes/AbrilFatface-Regular.ttf);
+}
+@font-face{
+    font-family: fuente1;
+    src: url(../fuentes/FrancoisOne.ttf);
+}
+@font-face{
+    font-family: fuente2;
+    src: url(../fuentes/Montserrat-Bold.ttf);
+}
+@font-face{
+    font-family: fuente3;
+    src: url(../fuentes/AlegreyaSans-Bold.ttf);
+}
+body{
+    background-color: #ced5f29c;
+}
+.title{
+    font-family: fuente3;
+    font-size: 10px;
+}
+.titulo1{
+    color: #858BA6;
+    font-size: 40px;
+    font-family: fuente2;
+    text-align: center;
+    position:adsolute;
+}
+.titulo2{
+    color: #858BA6;
+    font-size: 30px;
+    font-family: fuente2;
+}
+.parrafo{
+    color:#A285A6;
+    font-family: fuente1;
+    font-size: 20px;
+}
+.resaltado{
+    color: #4b334e;
+}
+.links{
+    color: #b49be1;
+    font-family: fuente1;
+}
+.video{
+    width: 506px;   
+    height: 315px;
+    max-width: 100%; 
+    padding: 0px 0px;
+    border: #4b334e 6px solid;
+    border-radius: 20px;
+}
+.texto_pequeño{
+    color:#ae8ab1;
+    font-family: fuente1;
+    font-size: 12px;
+}
+.miniimaguen{
+    padding: 0px 0px;
+    border: #ffffff 6px solid;
+    border-radius: 20px;
+}
