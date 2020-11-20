@@ -40,6 +40,8 @@ body{
 }
 .resaltado{
     color: #4b334e;
+    font-size: 20px;
+    font-family: fuente1;
 }
 .links{
     color: #b49be1;
